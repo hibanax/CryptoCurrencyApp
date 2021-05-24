@@ -6,7 +6,7 @@
 }
 
 .coin_input {
-  background: #222531;
+  background: #05F2FF;
   border: none;
   padding: 16px;
   border-radius: 4px;
@@ -16,5 +16,5 @@
 }
 
 .coin_input::placeholder {
-  color: #e2e2e2;
+  color: black;
 }

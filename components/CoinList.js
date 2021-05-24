@@ -15,7 +15,6 @@ export default function CoinList({ filteredCoins }) {
             volume={coin.market_cap}
             image={coin.image}
             priceChange={coin.price_change_percentage_24h}
-            mid24={((coin.high_24h + coin.low_24h)/2)}
           />
         );
       })}

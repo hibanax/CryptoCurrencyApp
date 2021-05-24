@@ -12,10 +12,11 @@
   border-bottom: 1px solid #2e2e2e;
   width: 1000px;
   padding: 0rem 2rem;
+  transition: background 0.3s ease-in-out;
 }
 
 .coin_row:hover {
-  background: #171718;
+  background: #05F2FF;
 }
 
 .coin {
